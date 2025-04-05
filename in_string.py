@@ -8,8 +8,9 @@ def check_vowels():
     print(f"Contiene u: {'u' in name}")
 #    print(f"Contiene A: {'A' in name}")
 #    print(f"Contiene E: {'E' in name}")
-#   print(f"Contiene I: {'I' in name}")
-#   print(f"Contiene O: {'O' in name}")    print(f"Contiene U: {'U' in name}")
+#    print(f"Contiene I: {'I' in name}")
+#    print(f"Contiene O: {'O' in name}")
+#    print(f"Contiene U: {'U' in name}")
 
 
 # Para verificar este ejercicio ejecutar el comando
