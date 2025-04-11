@@ -2,7 +2,7 @@ def slice_simple():
     texto = "Awesome"
     Awe= f"{texto[:3].lower()}"
     eso= f"{texto[2:5].lower()}"
-    Full= texto[:4].lower + texto[-3:]
+    Full= texto[:4].lower() + texto[-3:].lower()
     print(Awe)
     print(eso)
     print(Full)
